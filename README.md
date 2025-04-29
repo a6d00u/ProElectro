@@ -7,12 +7,11 @@ ProElectro is a **Java Enterprise Edition (JEE)** web application developed as a
 - **Backend**: JEE (Servlets, JSP)
 - **Frontend**: Bootstrap 5, JSTL
 - **Authentication**: Google OAuth 2.0 API
-- **Blockchain**: [Ethereum/Hyperledger/Other]
-- **Smart Contracts**: Solidity/Vyper
-- **Web3 Integration**: Web3j/Web3.js
-- **Database**: [MySQL/PostgreSQL/Oracle]
+- **Blockchain**: Ethereum
+- **Smart Contracts**: Solidity
+- **Web3 Integration**: Web3j
+- **Database**: MySQL
 - **Application Server**: XAMPP 8.2+ ( Apache Tomcat 8.5, MySQL 8.0)
-- **Blockchain**: [Ethereum/Hyperledger]
 - **Smart Contracts**: Solidity
 
 ## 🌟 Key Features
